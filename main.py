@@ -25,7 +25,7 @@ def list(t):
 
 def printer(d):
   r = '   _________________________'
-  print("\033[1;33m   David's Nan's Bingo Card Generator")
+  print("\033[1;33m   David's Nan's Bingo Card Generator.")
   print()
   print()
   for i in d:
